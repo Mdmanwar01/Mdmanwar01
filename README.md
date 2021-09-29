@@ -2,7 +2,7 @@
 
 🙋‍♂️ About Me
 
-- 🔭 I’m currently ```a student of CSE.
+- 🔭 I’m currently a student of CSE.
 - 🌱 I’m currently learning Data Structures and Algorithm.
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help with Coding Mystery 
