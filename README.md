@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Manwar
 
-🙋‍♂️ About Me
+🙋‍♂️ <strong> About Me </strong>
 
-- 🔭 I’m currently a student of CSE.
-- 🌱 I’m currently learning Data Structures and Algorithm.
-- 👯 I’m looking to collaborate on OpenSource Projects.
-- 🤔 I’m looking for help with Coding Mystery 
-- 💬 Ask me about C or any tech releated stuff
+- 🔭 I’m currently <strong> a student of CSE. </strong> 
+- 🌱 I’m currently learning <strong> Data Structures and Algorithm. </strong>
+- 👯 I’m looking to collaborate on <strong> OpenSource Projects. </strong>
+- 🤔 I’m looking for help with <strong> Coding Mystery. </strong>
+- 💬 Ask me about <strong> C or any tech releated stuff. </strong>
 - 📫 How to reach me: [manwar7908@gmail.com]
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I play a lot of action games and go to my gym occasionally.
--->
+- 😄 Pronouns: <strong> He/His </strong>
+- ⚡ Fun fact: <strong> I play a lot of action games and go to my gym occasionally. </strong>
