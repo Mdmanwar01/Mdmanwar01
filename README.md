@@ -52,3 +52,12 @@
 
 
 [![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=mdmanwar01&theme=react-dark)](https://github.com/Mdmanwar01)
+
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mdmanwar01&&style=flat-square" align="center" />
+</div>  
+
+<!-- footer image -->
+![](https://i.imgur.com/waxVImv.png)
