@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Md Manwar Hossain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
