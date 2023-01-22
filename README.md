@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I’m looking to collaborate on **DSA Projects, 2D Games**
+- 👯 I’m looking to collaborate on **DSA and ReactJS Projects, Game Development and Designing **
 
-- 🤝 I’m looking for help with **C++, Python, JAVA**
+- 🤝 I’m looking for help with **C++, Python, JAVA, ReactJS**
 
 - 💬 Ask me about **C++, Python**
 
