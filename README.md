@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Md Manwar Hossain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **2D Game Development**
+- 🔭 I’m currently working on **Unity and ReactJS**
 
 - 🌱 I’m currently learning **Cyber Security**
 
