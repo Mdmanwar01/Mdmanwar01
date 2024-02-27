@@ -6,15 +6,15 @@
 <h1 align="center">Hi 👋, I'm Md Manwar Hossain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Unity and ReactJS**
+- 🔭 I’m currently working on **Unity and Blender**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Game Development**
 
-- 👯 I’m looking to collaborate on **DSA and ReactJS Projects, Game Development and Designing **
+- 👯 I’m looking to collaborate on **Game Development and Designing **
 
-- 🤝 I’m looking for help with **C++, Python, JAVA, ReactJS**
+- 🤝 I’m looking for help with **C++, C#**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++**
 
 - ⚡ Fun fact: I use spaces often 
 
